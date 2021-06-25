@@ -1,14 +1,10 @@
 ---
 title: Late-time Circumstellar Interaction of SN 2017eaw in NGC 6946
 authors:
-  - Weil
-  - Kathryn E.
-  - Fesen
-  - Robert A.
-  - Patnaude
-  - Daniel J.
-  - Milisavljevic
-  - Dan
+  - Kathryn E. Weil
+  - Robert A Fesen
+  - Daniel J. Patnaude
+  - Dan Milisavljevic
 author_notes: []
 publication_short: ""
 abstract: SN 2017eaw, the tenth supernova observed in NGC 6946, was a normal
@@ -26,8 +22,7 @@ abstract: SN 2017eaw, the tenth supernova observed in NGC 6946, was a normal
   bright SNe II-P and the nature of presupernova mass-loss events for SN II-P
   evolution.
 tags: []
-projects:
-  - example
+projects: []
 slides: ""
 url_pdf: ""
 publication_types:
@@ -42,7 +37,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 publication: The Astrophysical Journal
-featured: false
+featured: true
 date: 2013-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
