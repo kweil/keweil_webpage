@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral Research Associate
-avatar_filename: kw_small.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
