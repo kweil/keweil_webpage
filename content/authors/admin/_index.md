@@ -29,13 +29,7 @@ organizations:
   - name: Purdue University
     url: https://www.purdue.edu
 education:
-  courses:
-    - course: PhD in Physics and Astronomy
-      institution: Dartmouth College
-      year: 2020
-    - course: BSc in Physics
-      institution: Brandeis University
-      year: 2014
+  courses: []
 superuser: true
 highlight_name: false
 title: Kathryn E. Weil
@@ -52,10 +46,10 @@ My research interests include time domain astronomy, supernova and supernova rem
 
 
 
-# Projects:
+# Research Projects:
 
 ## REFITT
 
 
 
-## Evolving Supernovae:
+## Evolving Supernovae
