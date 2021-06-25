@@ -37,19 +37,16 @@ email: ""
 ---
 My research interests include time domain astronomy, supernova and supernova remnants.  My work has focused on the connections between evolving supernovae and young supernova remnants. My expertise is in optical observations of transients.
 
-
-
 ## Education
 
 * PhD, Physics & Astronomy, Dartmouth College, 2020
 * BSc, Physics, Brandeis University, 2014
 
-
-
 # Research Projects:
 
-## REFITT
+## [REFITT](http://refitt.org)
 
-
+*
+*
 
 ## Evolving Supernovae
