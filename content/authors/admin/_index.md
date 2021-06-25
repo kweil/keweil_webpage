@@ -1,6 +1,6 @@
 ---
-title: Kathryn E. Weil
 role: Postdoctoral Research Associate
+avatar_filename: kw_small.jpg
 bio: ""
 interests: []
 social:
@@ -36,8 +36,9 @@ education:
     - course: BSc in Physics
       institution: Brandeis University
       year: 2014
-email: ""
 superuser: true
 highlight_name: false
+title: Kathryn E. Weil
+email: ""
 ---
 My research interests include time domain astronomy, supernova and supernova remnants.  My work has focused on the connections between evolving supernovae and young supernova remnants. My expertise is in optical observations of transients.
