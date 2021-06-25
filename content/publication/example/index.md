@@ -6,9 +6,9 @@ authors:
   - Fesen
   - Robert A.
   - Patnaude
-  - DanielJ.
+  - Daniel J.
   - Milisavljevic
-  - Dan.
+  - Dan
 author_notes: []
 publication_short: ""
 abstract: SN 2017eaw, the tenth supernova observed in NGC 6946, was a normal
