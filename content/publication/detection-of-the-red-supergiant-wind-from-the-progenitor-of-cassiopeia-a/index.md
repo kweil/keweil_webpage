@@ -10,7 +10,7 @@ authors:
   - Roger A. Chevalier
   - Dan Milisavljevic
   - Christopher L. Gerardy
-doi: " 10.3847/1538-4357/ab76bf "
+doi: "10.3847/1538-4357/ab76bf "
 publication: The Astrophysical Journal
 abstract: ""
 draft: false
