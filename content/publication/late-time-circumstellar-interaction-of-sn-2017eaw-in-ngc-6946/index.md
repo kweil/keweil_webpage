@@ -25,7 +25,7 @@ abstract: SN 2017eaw, the tenth supernova observed in NGC 6946, was a normal
   bright SNe II-P and the nature of presupernova mass-loss events for SN II-P
   evolution.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
