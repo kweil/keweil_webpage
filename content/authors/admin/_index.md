@@ -28,8 +28,8 @@ social:
 organizations:
   - name: Purdue University
     url: https://www.purdue.edu
-#education:
-#  courses: []
+education:
+  courses: []
 superuser: true
 highlight_name: false
 title: Kathryn E. Weil
@@ -50,3 +50,6 @@ My research interests include time domain astronomy, supernova and supernova rem
 *
 
 ## Evolving Supernovae
+
+* Developed a new optical observing techique to find decades to century old core-collapse supernovae in nearby galaxies.
+* 
