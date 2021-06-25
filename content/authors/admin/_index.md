@@ -44,8 +44,8 @@ My research interests include time domain astronomy, supernova and supernova rem
 
 ## Recommender Engine for Intelligent Transient Tracking ([REFITT](http://refitt.org))
 
-*
-*
+* Coordinate follow-up between various observing agents to maximize scientific gains of transients discovered by ZTF in preparation for LSST. 
+* 
 
 ## Evolving Supernovae
 
