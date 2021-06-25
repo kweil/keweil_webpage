@@ -10,6 +10,11 @@ social:
     icon_pack: fas
     icon: envelope
     link: keweil@purdue.edu
+  - display:
+      header: false
+    icon_pack: ai
+    icon: orcid
+    link: https://orcid.org/0000-0002-8360-0831
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/kathryn-weil
