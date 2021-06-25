@@ -15,6 +15,7 @@ authors:
   - Marcel Drechsler
   - Sheldon Faworski
 doi: 10.1093/mnras/staa2765
+url_ads: https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.5194F/abstract
 publication: Monthly Notices of the Royal Astronomical Society
 abstract: Wide-field H α images of the Galactic plane have revealed a new
   supernova remnant (SNR) nearly 3 deg in diameter centred at l = 107.0, b =
