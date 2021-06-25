@@ -14,7 +14,7 @@ abstract: SN 2017eaw, the tenth supernova observed in NGC 6946, was a normal
   spectra. While the +545 day spectrum is similar to spectra taken between days
   +400 and +493, the +900 day spectrum shows dramatic changes both in spectral
   features and emission-line profiles. The Hα emission is flat-topped and
-  boxlike with sharp blue and red profile velocities of ≃-8000 and +7500 km s-1.
+  boxlike with sharp blue and red profile velocities of ≃-8000 and +7500 km/s.
   These late-time spectral changes indicate strong circumstellar interaction
   with a mass-loss shell, expelled ∼1700 yr before explosion. SN 2017eaw's +900
   day spectrum is similar to those seen for SN 2004et and SN 2013ej observed 2-3
