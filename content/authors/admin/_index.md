@@ -16,7 +16,7 @@ social:
     link: https://orcid.org/0000-0002-8360-0831
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/kathryn-weil
+    link: https://www.linkedin.com/in/kathryn-weil
   - display:
       header: false
     link: https://ui.adsabs.harvard.edu/public-libraries/yO9KzLd7RQi3sm27aEs8cg
