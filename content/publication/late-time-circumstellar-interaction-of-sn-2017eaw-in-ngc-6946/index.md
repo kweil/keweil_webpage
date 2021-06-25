@@ -8,7 +8,7 @@ authors:
   - Daniel J. Patnaude
   - Dan Milisavljevic
 author_notes: []
-doi: " 10.3847/1538-4357/aba4b1 "
+doi: "10.3847/1538-4357/aba4b1 "
 publication: The Astrophysical Journal
 abstract: ""
 draft: false
