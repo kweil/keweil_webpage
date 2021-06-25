@@ -33,7 +33,7 @@ My research interests include time domain astronomy, supernova and supernova rem
 ## Education
 
 * PhD, Physics & Astronomy, Dartmouth College, 2020
-* BSc, Physics, Brandeis University, 2014
+* BS, Physics, Brandeis University, 2014
 
 # Research Projects
 
