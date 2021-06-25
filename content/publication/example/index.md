@@ -38,7 +38,7 @@ url_source: ""
 url_video: ""
 publication: The Astrophysical Journal
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2020-09-01T04:00:39.471Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
