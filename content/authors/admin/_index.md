@@ -28,8 +28,8 @@ social:
 organizations:
   - name: Purdue University
     url: https://www.purdue.edu
-education:
-  courses: []
+#education:
+#  courses: []
 superuser: true
 highlight_name: false
 title: Kathryn E. Weil
