@@ -58,12 +58,12 @@ address:
 # Site header
 
 main_menu:
-  enable: false
+  enable: true
   align: l
   show_logo: false
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
