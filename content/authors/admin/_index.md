@@ -1,4 +1,5 @@
 ---
+title: Kathryn E. Weil
 role: Postdoctoral Research Associate
 avatar_filename: avatar.jpg
 bio: ""
@@ -28,12 +29,9 @@ social:
 organizations:
   - name: Purdue University
     url: https://www.purdue.edu
-#education:
-#  courses: []
+email: ""
 superuser: true
 highlight_name: false
-title: Kathryn E. Weil
-email: ""
 ---
 My research interests include time domain astronomy, supernova and supernova remnants.  My work has focused on the connections between evolving supernovae and young supernova remnants. My expertise is in optical observations of transients.
 
@@ -44,7 +42,7 @@ My research interests include time domain astronomy, supernova and supernova rem
 
 # Research Projects
 
-## Recommender Engine for Intelligent Transient Tracking ([REFITT])(http://refitt.org)
+## Recommender Engine for Intelligent Transient Tracking ([REFITT](http://refitt.org))
 
 *
 *
