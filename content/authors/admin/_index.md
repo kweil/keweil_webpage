@@ -45,6 +45,16 @@ My research interests include time domain astronomy, supernova and supernova rem
 
 
 
+# Education
+
+### PhD, Physics & Astronomy
+
+#### Dartmouth College, 2020
+
+
+
+
+
 # Projects:
 
 ## REFITT
