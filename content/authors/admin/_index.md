@@ -11,6 +11,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/kathryn-weil
+  - display:
+      header: false
+    link: https://ui.adsabs.harvard.edu/public-libraries/yO9KzLd7RQi3sm27aEs8cg
+    icon_pack: ai
+    icon: ads
 organizations:
   - name: Purdue University
     url: https://www.purdue.edu
