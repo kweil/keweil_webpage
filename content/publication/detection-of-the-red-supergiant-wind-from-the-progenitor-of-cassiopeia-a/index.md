@@ -33,7 +33,7 @@ abstract: Cassiopeia A (Cas A) is one of the best studied young Galactic
   main-sequence wind, then from a slower, clumpy red supergiant wind, and
   finally from a brief high-velocity wind, like that from a yellow supergiant.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
