@@ -42,3 +42,13 @@ title: Kathryn E. Weil
 email: ""
 ---
 My research interests include time domain astronomy, supernova and supernova remnants.  My work has focused on the connections between evolving supernovae and young supernova remnants. My expertise is in optical observations of transients.
+
+
+
+# Projects:
+
+## REFITT
+
+
+
+## Evolving Supernovae:
