@@ -42,9 +42,9 @@ My research interests include time domain astronomy, supernova and supernova rem
 * PhD, Physics & Astronomy, Dartmouth College, 2020
 * BSc, Physics, Brandeis University, 2014
 
-# Research Projects:
+# Research Projects
 
-## [REFITT](http://refitt.org)
+## Recommender Engine for Intelligent Transient Tracking ([REFITT])(http://refitt.org)
 
 *
 *
