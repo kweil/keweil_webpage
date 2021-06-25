@@ -2,7 +2,7 @@
 widget: content-feed
 widget_id: publications
 headless: true
-weight: 10
+weight: 80
 title: Publications
 active: true
 design:
